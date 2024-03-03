@@ -75,3 +75,9 @@ For further information, you can visit the SETI Institute website: [SETI Institu
 
 - Replace `[Image of Arecibo Radio Telescope]` with a descriptive caption or image title if necessary.
 - You can adjust the image size by modifying the `width` attribute in the image tag.
+## Author
+
+### X1-Il portfolio - [X1-Il](https://x1-il.netlify.app)
+
+Thanks by X1-Il 
+
